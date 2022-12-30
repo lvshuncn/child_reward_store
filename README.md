@@ -15,7 +15,12 @@ When stars have been earned, your child can pick from the list of rewards, you c
 We love hearing from our users. If you have any feedback, questions or concerns, please email us at lvshun@live.cn.
 
 - Privacy Policy
-- https://tea-note.github.io/#/en/child_reward_store_privacy
-
+ - https://tea-note.github.io/#/en/child_reward_store_privacy
 - Terms and Conditions
-- https://tea-note.github.io/#/en/child_reward_store_terms
+ - https://tea-note.github.io/#/en/child_reward_store_terms
+
+# Contact US
+
+If you have any questions, feel free to submit an issue to this github repository
+
+Or you can email us: lvshun@live.cn
