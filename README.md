@@ -1,4 +1,4 @@
-# About
+# Child Reward Store
 Child Reward Store makes it easy to reward your children for good behavior and keep them motivated. Kids will be motivated to do chores and take responsibility while parents can reward them for their effort. There’s a family calendar to keep everyone coordinated.
 
 # Key features:
