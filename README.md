@@ -5,7 +5,7 @@
 Welcome to Child Reward Store, the app that transforms chores and tasks into a fun and rewarding experience for both parents and children. With our app, you can easily assign tasks and chores to your kids, rewarding them with points upon completion. Parents can set up exciting rewards that children can redeem using their earned points. Let's embark on a journey of responsibility, motivation, and family bonding!
 
 <p align="center">
-  <img src="./attachments/icon.png" width="256px" height="256px"/>
+  <img src="./attachments/icon_r.png" width="256px" height="256px"/>
 </p>
 
 ## Key Features:
