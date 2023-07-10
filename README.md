@@ -10,15 +10,20 @@ Welcome to Child Reward Store, the app that transforms chores and tasks into a f
 
 ## Key Features:
 
-- Assign Tasks and Chores: Empower your children by assigning tasks and chores tailored to their age and abilities. From making their beds to completing homework, easily create a list of responsibilities that help them develop essential life skills.
+### Assign Tasks and Chores
+Empower your children by assigning tasks and chores tailored to their age and abilities. From making their beds to completing homework, easily create a list of responsibilities that help them develop essential life skills.
 
-- Reward Points for Accomplishments: When your child completes a task or chore, they earn points based on its assigned value. This system reinforces positive behavior and teaches the importance of responsibility and hard work.
+### Reward Points for Accomplishments
+When your child completes a task or chore, they earn points based on its assigned value. This system reinforces positive behavior and teaches the importance of responsibility and hard work.
 
-- Customize Rewards: As a parent, you can set up a variety of exciting rewards for your children to choose from. Whether it's a special outing, a favorite toy, or extra screen time, the rewards can be personalized to motivate and engage your child.
+### Customize Rewards
+As a parent, you can set up a variety of exciting rewards for your children to choose from. Whether it's a special outing, a favorite toy, or extra screen time, the rewards can be personalized to motivate and engage your child.
 
-- Point Redemption: Children can use their accumulated points to redeem rewards of their choice. This feature encourages goal setting, determination, and a sense of achievement as they work towards their desired rewards.
+### Point Redemption
+Children can use their accumulated points to redeem rewards of their choice. This feature encourages goal setting, determination, and a sense of achievement as they work towards their desired rewards.
 
-- Child-Friendly Login and Task Completion: Child Reward Store provides a secure and child-friendly login option, allowing children to access the app on their own devices. They can view their assigned tasks, mark them as completed, and claim their well-deserved rewards, fostering independence and self-motivation.
+### Child-Friendly Login and Task Completion
+Child Reward Store provides a secure and child-friendly login option, allowing children to access the app on their own devices. They can view their assigned tasks, mark them as completed, and claim their well-deserved rewards, fostering independence and self-motivation.
 
 ## Why Choose Child Reward Store:
 
@@ -34,12 +39,13 @@ Download Child Reward Store today and unlock a world of motivation, responsibili
 
 We love hearing from our users. If you have any feedback, questions or concerns, please email us at lvshun@live.cn.
 
-- Privacy Policy
+## Privacy Policy
  - https://family-reward.web.app/#/privacy
-- Terms and Conditions
+
+## Terms and Conditions
  - https://family-reward.web.app/#/terms
 
-# Contact US
+## Contact US
 
 If you have any questions, feel free to submit an issue to this github repository
 
