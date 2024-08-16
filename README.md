@@ -1,52 +1,92 @@
-# Child Reward Store
+# Family Rewards: Habit & Chores
 
-> Encourage Responsibility and Reward Achievements
+> Make it easy to reward your children for good behavior and keep them motivated.
 
-Welcome to Child Reward Store, the app that transforms chores and tasks into a fun and rewarding experience for both parents and children. With our app, you can easily assign tasks and chores to your kids, rewarding them with points upon completion. Parents can set up exciting rewards that children can redeem using their earned points. Let's embark on a journey of responsibility, motivation, and family bonding!
+https://www.familyrewards.app/
 
-<p align="center">
-  <img src="./attachments/icon_r.png" width="256px" height="256px"/>
-</p>
+<a href="https://www.familyrewards.app/" target="_blank">
+    <p align="center" style="overflow: hidden; border-radius: 20px;">
+      <img src="https://www.familyrewards.app/images/hero_image_fa_twitter_1.webp" width="100%" />
+    </p>
+</a>
 
-## Key Features:
+Tired of constantly nagging your kids to do their chores? Family Rewards is here to help! You can easily assign tasks to each of your children, making life less stressful for you and teaching them about responsibility and time management along the way.
 
-### Assign Tasks and Chores
-Empower your children by assigning tasks and chores tailored to their age and abilities. From making their beds to completing homework, easily create a list of responsibilities that help them develop essential life skills.
+Family Rewards is a fantastic way to motivate your kids! Create a system where they earn points for completing tasks, and then trade those points for awesome rewards you choose. It's a fun way to help them stay on top of their chores and feel proud of what they've achieved.
 
-### Reward Points for Accomplishments
-When your child completes a task or chore, they earn points based on its assigned value. This system reinforces positive behavior and teaches the importance of responsibility and hard work.
+## FEATURES
 
-### Customize Rewards
-As a parent, you can set up a variety of exciting rewards for your children to choose from. Whether it's a special outing, a favorite toy, or extra screen time, the rewards can be personalized to motivate and engage your child.
+### Family Management
 
-### Point Redemption
-Children can use their accumulated points to redeem rewards of their choice. This feature encourages goal setting, determination, and a sense of achievement as they work towards their desired rewards.
+- Easily create and edit family profiles
+- Add and update kids' information with ease
+- Allow multiple parents to join and manage the family using their own devices through a family invitation code
+- Update each member's points balance effortlessly
 
-### Child-Friendly Login and Task Completion
-Child Reward Store provides a secure and child-friendly login option, allowing children to access the app on their own devices. They can view their assigned tasks, mark them as completed, and claim their well-deserved rewards, fostering independence and self-motivation.
+### Habit and Task Management
 
-## Why Choose Child Reward Store:
+- Create and edit tasks easily
+- Set tasks to repeat on a schedule, like daily, every Monday, or on the 2nd of each month
+- Assign tasks to anyone in the family, including both kids and parents
+- Assign points to tasks so family members can earn points when they complete them
+- Set negative points for tasks to help break bad habits by deducting points when tasks are checked in
+- Allow family members to add comments to tasks
+- Set up notification reminders for tasks
 
-Join thousands of parents who have transformed their family dynamics with Child Reward Store. Our app has received rave reviews for its effectiveness in motivating children, fostering responsibility, and strengthening parent-child relationships.
+### Bonus and Penalty
 
-Imagine a household where chores become exciting challenges, and accomplishments are celebrated. Child Reward Store brings families together, creating a positive environment where children eagerly take on responsibilities and parents witness their growth and development.
+- Give your kids bonus points for doing an awesome job or going above and beyond.
+- Deduct points as penalties if your kid does something wrong.
+- Set up DOs and DON'Ts to make the rules clear, like "deduct 1 point for using foul language," so you can reward or penalize family members accordingly.
 
-Our user-friendly interface makes it effortless for parents and children to navigate the app. With a few taps, you can assign tasks, track progress, and reward achievements. The app's engaging design keeps children motivated and excited to complete their tasks.
+### Rewards
 
-Child Reward Store promotes open communication and collaboration between parents and children. By working together towards goals, providing feedback, and celebrating successes, you'll build a stronger bond with your child and create lasting memories.
+- Create and modify rewards as needed.
+- Set point values for rewards, so family members can use their points to redeem them.
+- Control who can see which rewards, allowing different family members to see different options.
+- Allow comments on rewards, so everyone can share their thoughts.
 
-Download Child Reward Store today and unlock a world of motivation, responsibility, and fun for your family. Start the journey towards a harmonious and rewarding household!
+### Templates
 
-We love hearing from our users. If you have any feedback, questions or concerns, please email us at lvshun@live.cn.
+- Access over 300 predefined templates, including Habits, Chores, Rewards, DOs, and DON'Ts, to make the setup process easier.
 
-## Privacy Policy
- - https://family-reward.web.app/#/privacy
+### Charts
 
-## Terms and Conditions
- - https://family-reward.web.app/#/terms
+- View the points changes of family members.
+- See the completion status of each task.
+- Check the redemption status of each reward.
+
+### Multi-device support
+
+- Each parent can use their own device to join and manage the family together.
+- Parents can log in and navigate to the child's homepage on the main screen.
+- Each child can use their own device to join the family with a PIN code, complete tasks, and redeem rewards.
+
+### Confirmation
+
+- When kids complete a task on their device, a parent needs to approve it before the points are awarded.
+- When kids redeem a reward on their device, the parent can see it in the redeemed list and quickly deliver the reward.
+
+## PREMIUM FEATURES
+
+- Add as many family members as you want
+- Create unlimited habits and tasks
+- Set up unlimited rewards
+
+Sometimes parenting is hard, but you don't have to tackle it alone. Give Family Rewards a try, and you'll never want to go back to the old ways.
+Happy Parenting!
+
+If you have any questions or suggestions on how we can improve the application, please do not hesitate to contact us at lvshun@live.cn
+
+- Privacy Policy: https://www.familyrewards.app/privacy-policy
+- Terms and Conditions: https://www.familyrewards.app/terms
 
 ## Contact US
 
 If you have any questions, feel free to submit an issue to this github repository
 
-Or you can email us: lvshun@live.cn
+Or you can email us
+
+<p>
+<a href="mailto:lvshun@live.cn?subject=Feedback" target="_blank">lvshun@live.cn</a>
+</p>
