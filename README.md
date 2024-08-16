@@ -76,8 +76,6 @@ Family Rewards is a fantastic way to motivate your kids! Create a system where t
 Sometimes parenting is hard, but you don't have to tackle it alone. Give Family Rewards a try, and you'll never want to go back to the old ways.
 Happy Parenting!
 
-If you have any questions or suggestions on how we can improve the application, please do not hesitate to contact us at lvshun@live.cn
-
 - Privacy Policy: https://www.familyrewards.app/privacy-policy
 - Terms and Conditions: https://www.familyrewards.app/terms
 
